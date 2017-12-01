@@ -1,4 +1,4 @@
-----Data Curation APIs-------------
+----Data Curation APIs-----------
 
 Understanding and analyzing big data is firmly recognized as a powerful and strategic priority. For deeper interpretation of and better intelligence with big data, it is important to transform raw data (unstructured, semi-structured and structured data sources, e.g., text, video, image data sets) into curated data: contextualized data and knowledge that is maintained and made available for use by end-users and applications. In particular, data curation acts as the glue between raw data and analytics, providing an abstraction layer that relieves users from time consuming, tedious and error prone curation tasks. In this context, the data curation process becomes a vital analytics asset for increasing added value and insights. 
 
@@ -38,7 +38,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 ----Contributors-----------------------
 
 
-Amin (SMR) Beheshti
+Amin Beheshti
 
 Alireza Tabebordbar
 
